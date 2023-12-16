@@ -1,0 +1,47 @@
+body {
+    background-color: floralwhite;
+}
+#header {
+    background-color: floralwhite;
+    overflow: hidden;
+}
+.name {
+    float: left;
+}
+.navigation {
+    display: block;
+    float: right;
+}
+a {
+    color: rgb(172, 22, 52);
+    padding: 6px;
+    text-decoration: solid;
+    font-size: 18px;
+    font-family: cursive;
+}
+a:hover {
+background-color: crimson;
+color: beige;
+border-radius: 5px;
+}
+ul {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1, h3 {
+text-align: left;
+font-family: cursive;
+font-size: larger;
+}
+p {
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+position: relative;
+border-radius: 20px;
+}
+h2 {
+    text-align: left;
+    font-family: cursive;
+    font-size: large;
+}
